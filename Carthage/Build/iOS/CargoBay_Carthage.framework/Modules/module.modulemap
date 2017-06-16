@@ -1,0 +1,6 @@
+framework module CargoBay_Carthage {
+  umbrella header "CargoBay_Carthage.h"
+
+  export *
+  module * { export * }
+}
